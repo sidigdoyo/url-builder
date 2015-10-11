@@ -1,0 +1,22 @@
+{
+  "name": "url-builder",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sidigdoyo/url-builder",
+  "authors": [
+    "Sidigdoyo Pribadi <sidigdoyo@gmail.com>"
+  ],
+  "description": "url builder",
+  "main": "./src/msp.url-builder.js",
+  "moduleType": [],
+  "keywords": [
+    "url-bulder"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
