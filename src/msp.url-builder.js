@@ -3,7 +3,7 @@
  * @version v1.0.0
  * @link https://github.com/sidigdoyo/url-builder
  * @license MIT
- * @author Sidigdoyo Pribadi <sidigdoyo.pribadi@gmail.com>
+ * @author Sidigdoyo Pribadi <sidigdoyo@gmail.com>
  */
 
 (function( root, factory ) {
